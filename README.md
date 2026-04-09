@@ -10,7 +10,7 @@ A modern café that blends specialty coffee, ambient lighting, and creative work
 
 ***Pages + Content***
 
-1. Home
+***1. Home***
 
 Hero:
 “Where Light Meets Coffee”
