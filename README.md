@@ -1,4 +1,4 @@
-# ICOM-GROUP-1 : “Lumen Café” (Futuristic Coffee Shop + Workspace)
+# ICOM-GROUP-1 : “Lumen Café”
 
 
 
