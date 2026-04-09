@@ -1,14 +1,14 @@
 # ICOM-GROUP-1
 
-GROUP 1 — “Lumen Café” (Futuristic Coffee Shop + Workspace)
+**GROUP 1 — “Lumen Café” (Futuristic Coffee Shop + Workspace)**
 
-Concept
+***Concept***
 
 A modern café that blends specialty coffee, ambient lighting, and creative workspace culture.
 
 ⸻
 
-Pages + Content
+***Pages + Content***
 
 1. Home
 
@@ -23,7 +23,7 @@ Sections:
 
 ⸻
 
-2. Menu
+***2. Menu***
 
 Coffee:
 	•	Espresso — rich, bold
@@ -37,7 +37,7 @@ Food:
 
 ⸻
 
-3. Workspaces
+***3. Workspaces***
 
 Content:
 Private pods, shared tables, and lounge seating.
@@ -49,20 +49,20 @@ Details:
 
 ⸻
 
-4. About
+***4. About***
 
 Lumen Café was created for creatives, coders, and thinkers who want more than just coffee.
 
 ⸻
 
-5. Contact
+***5. Contact***
 	•	Address
 	•	Hours
 	•	Booking form
 	•	Instagram link
 
 
-Every group should assign:
+***Every group should assign:***
 	1.	Product Lead / Project Manager
 	2.	UX Designer
 	3.	UI / Visual Designer
